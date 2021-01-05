@@ -1,4 +1,4 @@
-# santa-hat
+# SantaHat
 An arduino-powered light up santa hat controllable from an iPhone app
 
 <img src="./img/app-icon.jpg" alt="app icon" width="250"/>
